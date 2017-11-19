@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<RecipeDefs>
+<Defs>
 
   <RecipeDef ParentName="CremateCorpse">
     <defName>CremateCorpseCampfire</defName>
     <workAmount>800</workAmount>
   </RecipeDef>
 
-</RecipeDefs>
+</Defs>

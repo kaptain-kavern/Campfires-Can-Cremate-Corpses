@@ -8,7 +8,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAttributeSet">
-		<xpath>/RecipeDefs/RecipeDef[defName = "CremateCorpse"]</xpath>
+		<xpath>/Defs/RecipeDef[defName = "CremateCorpse"]</xpath>
 		<attribute>Name</attribute>
 		<value>CremateCorpse</value>
 	</Operation>
