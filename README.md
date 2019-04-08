@@ -1,0 +1,4 @@
+#  [![Aimed at](https://img.shields.io/badge/For%20Rimworld-1.0-orange.svg?style=plastic)]()   [![GitHub release version](https://img.shields.io/github/release/kaptain-kavern/Campfires-Can-Cremate-Corpses.svg?style=plastic&label=Version)](https://github.com/kaptain-kavern/Campfires-Can-Cremate-Corpses/releases/latest)   [![Github Downloads](https://img.shields.io/github/downloads/kaptain-kavern/Campfires-Can-Cremate-Corpses/total.svg?label=Github%20Downloads&logo=github&logoColor=green&style=plastic)](https://github.com/kaptain-kavern/KK_ACCTG/releases/latest)   [![Steam Subscribers](https://img.shields.io/steam/subscriptions/966042290.svg?color=blue&label=Steam%20Subscribers&logo=steam&logoColor=9cf&style=plastic)](https://steamcommunity.com/sharedfiles/filedetails/?id=966042290)
+
+# Campfires-Can-Cremate-Corpses
+You know what? It permit to cremate corpses at campfires. Yep!
